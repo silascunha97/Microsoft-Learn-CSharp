@@ -1,0 +1,14 @@
+/root/All-Projects/NewMethods/bin/Debug/net8.0/NewMethods
+/root/All-Projects/NewMethods/bin/Debug/net8.0/NewMethods.deps.json
+/root/All-Projects/NewMethods/bin/Debug/net8.0/NewMethods.runtimeconfig.json
+/root/All-Projects/NewMethods/bin/Debug/net8.0/NewMethods.dll
+/root/All-Projects/NewMethods/bin/Debug/net8.0/NewMethods.pdb
+/root/All-Projects/NewMethods/obj/Debug/net8.0/NewMethods.GeneratedMSBuildEditorConfig.editorconfig
+/root/All-Projects/NewMethods/obj/Debug/net8.0/NewMethods.AssemblyInfoInputs.cache
+/root/All-Projects/NewMethods/obj/Debug/net8.0/NewMethods.AssemblyInfo.cs
+/root/All-Projects/NewMethods/obj/Debug/net8.0/NewMethods.csproj.CoreCompileInputs.cache
+/root/All-Projects/NewMethods/obj/Debug/net8.0/NewMethods.dll
+/root/All-Projects/NewMethods/obj/Debug/net8.0/refint/NewMethods.dll
+/root/All-Projects/NewMethods/obj/Debug/net8.0/NewMethods.pdb
+/root/All-Projects/NewMethods/obj/Debug/net8.0/NewMethods.genruntimeconfig.cache
+/root/All-Projects/NewMethods/obj/Debug/net8.0/ref/NewMethods.dll

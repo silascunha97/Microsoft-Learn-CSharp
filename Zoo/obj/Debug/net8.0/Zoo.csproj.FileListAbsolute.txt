@@ -1,0 +1,14 @@
+/root/All-Projects/Zoo/obj/Debug/net8.0/Zoo.GeneratedMSBuildEditorConfig.editorconfig
+/root/All-Projects/Zoo/obj/Debug/net8.0/Zoo.AssemblyInfoInputs.cache
+/root/All-Projects/Zoo/obj/Debug/net8.0/Zoo.AssemblyInfo.cs
+/root/All-Projects/Zoo/obj/Debug/net8.0/Zoo.csproj.CoreCompileInputs.cache
+/root/All-Projects/Zoo/bin/Debug/net8.0/Zoo
+/root/All-Projects/Zoo/bin/Debug/net8.0/Zoo.deps.json
+/root/All-Projects/Zoo/bin/Debug/net8.0/Zoo.runtimeconfig.json
+/root/All-Projects/Zoo/bin/Debug/net8.0/Zoo.dll
+/root/All-Projects/Zoo/bin/Debug/net8.0/Zoo.pdb
+/root/All-Projects/Zoo/obj/Debug/net8.0/Zoo.dll
+/root/All-Projects/Zoo/obj/Debug/net8.0/refint/Zoo.dll
+/root/All-Projects/Zoo/obj/Debug/net8.0/Zoo.pdb
+/root/All-Projects/Zoo/obj/Debug/net8.0/Zoo.genruntimeconfig.cache
+/root/All-Projects/Zoo/obj/Debug/net8.0/ref/Zoo.dll

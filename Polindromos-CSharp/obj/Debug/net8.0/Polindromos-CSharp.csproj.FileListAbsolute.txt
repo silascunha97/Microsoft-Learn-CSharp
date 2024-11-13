@@ -1,0 +1,14 @@
+/root/All-Projects/Polindromos-CSharp/obj/Debug/net8.0/Polindromos-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/root/All-Projects/Polindromos-CSharp/obj/Debug/net8.0/Polindromos-CSharp.AssemblyInfoInputs.cache
+/root/All-Projects/Polindromos-CSharp/obj/Debug/net8.0/Polindromos-CSharp.AssemblyInfo.cs
+/root/All-Projects/Polindromos-CSharp/obj/Debug/net8.0/Polindromos-CSharp.csproj.CoreCompileInputs.cache
+/root/All-Projects/Polindromos-CSharp/bin/Debug/net8.0/Polindromos-CSharp
+/root/All-Projects/Polindromos-CSharp/bin/Debug/net8.0/Polindromos-CSharp.deps.json
+/root/All-Projects/Polindromos-CSharp/bin/Debug/net8.0/Polindromos-CSharp.runtimeconfig.json
+/root/All-Projects/Polindromos-CSharp/bin/Debug/net8.0/Polindromos-CSharp.dll
+/root/All-Projects/Polindromos-CSharp/bin/Debug/net8.0/Polindromos-CSharp.pdb
+/root/All-Projects/Polindromos-CSharp/obj/Debug/net8.0/Polindromos-CSharp.dll
+/root/All-Projects/Polindromos-CSharp/obj/Debug/net8.0/refint/Polindromos-CSharp.dll
+/root/All-Projects/Polindromos-CSharp/obj/Debug/net8.0/Polindromos-CSharp.pdb
+/root/All-Projects/Polindromos-CSharp/obj/Debug/net8.0/Polindromos-CSharp.genruntimeconfig.cache
+/root/All-Projects/Polindromos-CSharp/obj/Debug/net8.0/ref/Polindromos-CSharp.dll

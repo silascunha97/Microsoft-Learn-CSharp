@@ -1,0 +1,14 @@
+/root/All-Projects/ReturnVector/bin/Debug/net8.0/ReturnVector
+/root/All-Projects/ReturnVector/bin/Debug/net8.0/ReturnVector.deps.json
+/root/All-Projects/ReturnVector/bin/Debug/net8.0/ReturnVector.runtimeconfig.json
+/root/All-Projects/ReturnVector/bin/Debug/net8.0/ReturnVector.dll
+/root/All-Projects/ReturnVector/bin/Debug/net8.0/ReturnVector.pdb
+/root/All-Projects/ReturnVector/obj/Debug/net8.0/ReturnVector.GeneratedMSBuildEditorConfig.editorconfig
+/root/All-Projects/ReturnVector/obj/Debug/net8.0/ReturnVector.AssemblyInfoInputs.cache
+/root/All-Projects/ReturnVector/obj/Debug/net8.0/ReturnVector.AssemblyInfo.cs
+/root/All-Projects/ReturnVector/obj/Debug/net8.0/ReturnVector.csproj.CoreCompileInputs.cache
+/root/All-Projects/ReturnVector/obj/Debug/net8.0/ReturnVector.dll
+/root/All-Projects/ReturnVector/obj/Debug/net8.0/refint/ReturnVector.dll
+/root/All-Projects/ReturnVector/obj/Debug/net8.0/ReturnVector.pdb
+/root/All-Projects/ReturnVector/obj/Debug/net8.0/ReturnVector.genruntimeconfig.cache
+/root/All-Projects/ReturnVector/obj/Debug/net8.0/ref/ReturnVector.dll

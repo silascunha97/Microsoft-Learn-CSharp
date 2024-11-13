@@ -1,0 +1,14 @@
+/root/All-Projects/Formatacao/bin/Debug/net8.0/Formatacao
+/root/All-Projects/Formatacao/bin/Debug/net8.0/Formatacao.deps.json
+/root/All-Projects/Formatacao/bin/Debug/net8.0/Formatacao.runtimeconfig.json
+/root/All-Projects/Formatacao/bin/Debug/net8.0/Formatacao.dll
+/root/All-Projects/Formatacao/bin/Debug/net8.0/Formatacao.pdb
+/root/All-Projects/Formatacao/obj/Debug/net8.0/Formatacao.GeneratedMSBuildEditorConfig.editorconfig
+/root/All-Projects/Formatacao/obj/Debug/net8.0/Formatacao.AssemblyInfoInputs.cache
+/root/All-Projects/Formatacao/obj/Debug/net8.0/Formatacao.AssemblyInfo.cs
+/root/All-Projects/Formatacao/obj/Debug/net8.0/Formatacao.csproj.CoreCompileInputs.cache
+/root/All-Projects/Formatacao/obj/Debug/net8.0/Formatacao.dll
+/root/All-Projects/Formatacao/obj/Debug/net8.0/refint/Formatacao.dll
+/root/All-Projects/Formatacao/obj/Debug/net8.0/Formatacao.pdb
+/root/All-Projects/Formatacao/obj/Debug/net8.0/Formatacao.genruntimeconfig.cache
+/root/All-Projects/Formatacao/obj/Debug/net8.0/ref/Formatacao.dll

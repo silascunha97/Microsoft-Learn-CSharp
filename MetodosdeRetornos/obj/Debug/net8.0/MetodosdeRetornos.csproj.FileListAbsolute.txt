@@ -1,0 +1,14 @@
+/root/All-Projects/MetodosdeRetornos/bin/Debug/net8.0/MetodosdeRetornos
+/root/All-Projects/MetodosdeRetornos/bin/Debug/net8.0/MetodosdeRetornos.deps.json
+/root/All-Projects/MetodosdeRetornos/bin/Debug/net8.0/MetodosdeRetornos.runtimeconfig.json
+/root/All-Projects/MetodosdeRetornos/bin/Debug/net8.0/MetodosdeRetornos.dll
+/root/All-Projects/MetodosdeRetornos/bin/Debug/net8.0/MetodosdeRetornos.pdb
+/root/All-Projects/MetodosdeRetornos/obj/Debug/net8.0/MetodosdeRetornos.GeneratedMSBuildEditorConfig.editorconfig
+/root/All-Projects/MetodosdeRetornos/obj/Debug/net8.0/MetodosdeRetornos.AssemblyInfoInputs.cache
+/root/All-Projects/MetodosdeRetornos/obj/Debug/net8.0/MetodosdeRetornos.AssemblyInfo.cs
+/root/All-Projects/MetodosdeRetornos/obj/Debug/net8.0/MetodosdeRetornos.csproj.CoreCompileInputs.cache
+/root/All-Projects/MetodosdeRetornos/obj/Debug/net8.0/MetodosdeRetornos.dll
+/root/All-Projects/MetodosdeRetornos/obj/Debug/net8.0/refint/MetodosdeRetornos.dll
+/root/All-Projects/MetodosdeRetornos/obj/Debug/net8.0/MetodosdeRetornos.pdb
+/root/All-Projects/MetodosdeRetornos/obj/Debug/net8.0/MetodosdeRetornos.genruntimeconfig.cache
+/root/All-Projects/MetodosdeRetornos/obj/Debug/net8.0/ref/MetodosdeRetornos.dll
