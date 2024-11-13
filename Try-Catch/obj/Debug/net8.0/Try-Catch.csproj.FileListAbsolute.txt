@@ -1,0 +1,15 @@
+/root/All-Projects/Try-Catch/obj/Debug/net8.0/Try-Catch.GeneratedMSBuildEditorConfig.editorconfig
+/root/All-Projects/Try-Catch/obj/Debug/net8.0/Try-Catch.AssemblyInfoInputs.cache
+/root/All-Projects/Try-Catch/obj/Debug/net8.0/Try-Catch.AssemblyInfo.cs
+/root/All-Projects/Try-Catch/obj/Debug/net8.0/Try-Catch.csproj.CoreCompileInputs.cache
+/root/All-Projects/Try-Catch/obj/Debug/net8.0/Try-Catch.sourcelink.json
+/root/All-Projects/Try-Catch/bin/Debug/net8.0/Try-Catch
+/root/All-Projects/Try-Catch/bin/Debug/net8.0/Try-Catch.deps.json
+/root/All-Projects/Try-Catch/bin/Debug/net8.0/Try-Catch.runtimeconfig.json
+/root/All-Projects/Try-Catch/bin/Debug/net8.0/Try-Catch.dll
+/root/All-Projects/Try-Catch/bin/Debug/net8.0/Try-Catch.pdb
+/root/All-Projects/Try-Catch/obj/Debug/net8.0/Try-Catch.dll
+/root/All-Projects/Try-Catch/obj/Debug/net8.0/refint/Try-Catch.dll
+/root/All-Projects/Try-Catch/obj/Debug/net8.0/Try-Catch.pdb
+/root/All-Projects/Try-Catch/obj/Debug/net8.0/Try-Catch.genruntimeconfig.cache
+/root/All-Projects/Try-Catch/obj/Debug/net8.0/ref/Try-Catch.dll
