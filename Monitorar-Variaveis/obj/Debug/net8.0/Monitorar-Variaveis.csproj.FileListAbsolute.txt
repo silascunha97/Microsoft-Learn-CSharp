@@ -1,0 +1,15 @@
+/root/All-Projects/Monitorar-Variaveis/bin/Debug/net8.0/Monitorar-Variaveis
+/root/All-Projects/Monitorar-Variaveis/bin/Debug/net8.0/Monitorar-Variaveis.deps.json
+/root/All-Projects/Monitorar-Variaveis/bin/Debug/net8.0/Monitorar-Variaveis.runtimeconfig.json
+/root/All-Projects/Monitorar-Variaveis/bin/Debug/net8.0/Monitorar-Variaveis.dll
+/root/All-Projects/Monitorar-Variaveis/bin/Debug/net8.0/Monitorar-Variaveis.pdb
+/root/All-Projects/Monitorar-Variaveis/obj/Debug/net8.0/Monitorar-Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+/root/All-Projects/Monitorar-Variaveis/obj/Debug/net8.0/Monitorar-Variaveis.AssemblyInfoInputs.cache
+/root/All-Projects/Monitorar-Variaveis/obj/Debug/net8.0/Monitorar-Variaveis.AssemblyInfo.cs
+/root/All-Projects/Monitorar-Variaveis/obj/Debug/net8.0/Monitorar-Variaveis.csproj.CoreCompileInputs.cache
+/root/All-Projects/Monitorar-Variaveis/obj/Debug/net8.0/Monitorar-Variaveis.sourcelink.json
+/root/All-Projects/Monitorar-Variaveis/obj/Debug/net8.0/Monitorar-Variaveis.dll
+/root/All-Projects/Monitorar-Variaveis/obj/Debug/net8.0/refint/Monitorar-Variaveis.dll
+/root/All-Projects/Monitorar-Variaveis/obj/Debug/net8.0/Monitorar-Variaveis.pdb
+/root/All-Projects/Monitorar-Variaveis/obj/Debug/net8.0/Monitorar-Variaveis.genruntimeconfig.cache
+/root/All-Projects/Monitorar-Variaveis/obj/Debug/net8.0/ref/Monitorar-Variaveis.dll

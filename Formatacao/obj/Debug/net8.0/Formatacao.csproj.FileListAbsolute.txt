@@ -12,3 +12,4 @@
 /root/All-Projects/Formatacao/obj/Debug/net8.0/Formatacao.pdb
 /root/All-Projects/Formatacao/obj/Debug/net8.0/Formatacao.genruntimeconfig.cache
 /root/All-Projects/Formatacao/obj/Debug/net8.0/ref/Formatacao.dll
+/root/All-Projects/Formatacao/obj/Debug/net8.0/Formatacao.sourcelink.json
