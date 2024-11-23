@@ -1,0 +1,14 @@
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/VetorString/obj/Debug/net9.0/VetorString.GeneratedMSBuildEditorConfig.editorconfig
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/VetorString/obj/Debug/net9.0/VetorString.AssemblyInfoInputs.cache
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/VetorString/obj/Debug/net9.0/VetorString.AssemblyInfo.cs
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/VetorString/obj/Debug/net9.0/VetorString.csproj.CoreCompileInputs.cache
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/VetorString/bin/Debug/net9.0/VetorString
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/VetorString/bin/Debug/net9.0/VetorString.deps.json
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/VetorString/bin/Debug/net9.0/VetorString.runtimeconfig.json
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/VetorString/bin/Debug/net9.0/VetorString.dll
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/VetorString/bin/Debug/net9.0/VetorString.pdb
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/VetorString/obj/Debug/net9.0/VetorString.dll
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/VetorString/obj/Debug/net9.0/refint/VetorString.dll
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/VetorString/obj/Debug/net9.0/VetorString.pdb
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/VetorString/obj/Debug/net9.0/VetorString.genruntimeconfig.cache
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/VetorString/obj/Debug/net9.0/ref/VetorString.dll

@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/root/All-Projects/Formatacao/Formatacao.csproj": {}
+    "/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Formatacao/Formatacao.csproj": {}
   },
   "projects": {
-    "/root/All-Projects/Formatacao/Formatacao.csproj": {
+    "/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Formatacao/Formatacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/root/All-Projects/Formatacao/Formatacao.csproj",
+        "projectUniqueName": "/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Formatacao/Formatacao.csproj",
         "projectName": "Formatacao",
-        "projectPath": "/root/All-Projects/Formatacao/Formatacao.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/root/All-Projects/Formatacao/obj/",
+        "projectPath": "/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Formatacao/Formatacao.csproj",
+        "packagesPath": "/home/oriele-rlc/.nuget/packages/",
+        "outputPath": "/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Formatacao/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/oriele-rlc/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -36,8 +37,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -53,12 +55,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

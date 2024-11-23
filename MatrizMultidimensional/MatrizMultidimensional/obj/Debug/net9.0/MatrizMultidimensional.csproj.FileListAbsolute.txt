@@ -1,0 +1,14 @@
+/home/oriele-rlc/projetos/CSharp-Projects/MatrizMultidimensional/MatrizMultidimensional/obj/Debug/net9.0/MatrizMultidimensional.GeneratedMSBuildEditorConfig.editorconfig
+/home/oriele-rlc/projetos/CSharp-Projects/MatrizMultidimensional/MatrizMultidimensional/obj/Debug/net9.0/MatrizMultidimensional.AssemblyInfoInputs.cache
+/home/oriele-rlc/projetos/CSharp-Projects/MatrizMultidimensional/MatrizMultidimensional/obj/Debug/net9.0/MatrizMultidimensional.AssemblyInfo.cs
+/home/oriele-rlc/projetos/CSharp-Projects/MatrizMultidimensional/MatrizMultidimensional/obj/Debug/net9.0/MatrizMultidimensional.csproj.CoreCompileInputs.cache
+/home/oriele-rlc/projetos/CSharp-Projects/MatrizMultidimensional/MatrizMultidimensional/bin/Debug/net9.0/MatrizMultidimensional
+/home/oriele-rlc/projetos/CSharp-Projects/MatrizMultidimensional/MatrizMultidimensional/bin/Debug/net9.0/MatrizMultidimensional.deps.json
+/home/oriele-rlc/projetos/CSharp-Projects/MatrizMultidimensional/MatrizMultidimensional/bin/Debug/net9.0/MatrizMultidimensional.runtimeconfig.json
+/home/oriele-rlc/projetos/CSharp-Projects/MatrizMultidimensional/MatrizMultidimensional/bin/Debug/net9.0/MatrizMultidimensional.dll
+/home/oriele-rlc/projetos/CSharp-Projects/MatrizMultidimensional/MatrizMultidimensional/bin/Debug/net9.0/MatrizMultidimensional.pdb
+/home/oriele-rlc/projetos/CSharp-Projects/MatrizMultidimensional/MatrizMultidimensional/obj/Debug/net9.0/MatrizMultidimensional.dll
+/home/oriele-rlc/projetos/CSharp-Projects/MatrizMultidimensional/MatrizMultidimensional/obj/Debug/net9.0/refint/MatrizMultidimensional.dll
+/home/oriele-rlc/projetos/CSharp-Projects/MatrizMultidimensional/MatrizMultidimensional/obj/Debug/net9.0/MatrizMultidimensional.pdb
+/home/oriele-rlc/projetos/CSharp-Projects/MatrizMultidimensional/MatrizMultidimensional/obj/Debug/net9.0/MatrizMultidimensional.genruntimeconfig.cache
+/home/oriele-rlc/projetos/CSharp-Projects/MatrizMultidimensional/MatrizMultidimensional/obj/Debug/net9.0/ref/MatrizMultidimensional.dll

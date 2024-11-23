@@ -1,0 +1,14 @@
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/vetorUnidimensional/obj/Debug/net9.0/vetorUnidimensional.GeneratedMSBuildEditorConfig.editorconfig
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/vetorUnidimensional/obj/Debug/net9.0/vetorUnidimensional.AssemblyInfoInputs.cache
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/vetorUnidimensional/obj/Debug/net9.0/vetorUnidimensional.AssemblyInfo.cs
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/vetorUnidimensional/obj/Debug/net9.0/vetorUnidimensional.csproj.CoreCompileInputs.cache
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/vetorUnidimensional/bin/Debug/net9.0/vetorUnidimensional
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/vetorUnidimensional/bin/Debug/net9.0/vetorUnidimensional.deps.json
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/vetorUnidimensional/bin/Debug/net9.0/vetorUnidimensional.runtimeconfig.json
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/vetorUnidimensional/bin/Debug/net9.0/vetorUnidimensional.dll
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/vetorUnidimensional/bin/Debug/net9.0/vetorUnidimensional.pdb
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/vetorUnidimensional/obj/Debug/net9.0/vetorUnidimensional.dll
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/vetorUnidimensional/obj/Debug/net9.0/refint/vetorUnidimensional.dll
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/vetorUnidimensional/obj/Debug/net9.0/vetorUnidimensional.pdb
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/vetorUnidimensional/obj/Debug/net9.0/vetorUnidimensional.genruntimeconfig.cache
+/home/oriele-rlc/projetos/CSharp-Projects/vetorUnidimensional/vetorUnidimensional/obj/Debug/net9.0/ref/vetorUnidimensional.dll
