@@ -1,0 +1,15 @@
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/obj/Debug/net9.0/Excercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/obj/Debug/net9.0/Excercicios.AssemblyInfoInputs.cache
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/obj/Debug/net9.0/Excercicios.AssemblyInfo.cs
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/obj/Debug/net9.0/Excercicios.csproj.CoreCompileInputs.cache
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/obj/Debug/net9.0/Excercicios.sourcelink.json
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/bin/Debug/net9.0/Excercicios
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/bin/Debug/net9.0/Excercicios.deps.json
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/bin/Debug/net9.0/Excercicios.runtimeconfig.json
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/bin/Debug/net9.0/Excercicios.dll
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/bin/Debug/net9.0/Excercicios.pdb
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/obj/Debug/net9.0/Excercicios.dll
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/obj/Debug/net9.0/refint/Excercicios.dll
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/obj/Debug/net9.0/Excercicios.pdb
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/obj/Debug/net9.0/Excercicios.genruntimeconfig.cache
+/home/oriele-rlc/projetos/Microsoft-Learn-CSharp/Excercicios/Excercicios/obj/Debug/net9.0/ref/Excercicios.dll
